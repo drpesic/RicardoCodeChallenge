@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<resources>
+  <color name="red">#DB3434</color>
+  <color name="green">#77D065</color>
+  <color name="blue">#3498DB</color>
+  <color name="purple">#B455B6</color>
+  <color name="gray">#738182</color>
+  <color name="snow">#EDF1F6</color>
+  <color name="white">#FFFFFF</color>
+  <color name="bluesnow">#D9EFFF</color>
+  <color name="coolgreen">#00B596</color>
+  <color name="coolred">#E50914</color>
+  <color name="coolblue">#1565C0</color>
+  <color name="coolyellow">#FF9900</color>
+  <color name="coolgray">#DCDEE6</color>
+  <color name="coolblack">#1F1A00</color>
+</resources>

@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <style name="Theme.Base" parent="@android:style/Theme.Light">
+  </style>
+  <style name="Theme.Deal" parent="@android:style/Theme.Light">
+    <item name="android:windowBackground">@color/white</item>
+    <item name="android:textColorPrimary">@color/coolblue</item>
+    <item name="android:windowNoTitle">true</item>
+  </style>
+  <style name="Theme.Splash" parent="android:Theme">
+    <item name="android:windowBackground">@drawable/splash</item>
+    <item name="android:windowNoTitle">true</item>
+  </style>
+  <style name="PositionStyle1">
+    <item name="android:textSize">9pt</item>
+    <item name="android:textColor">@color/coolblack</item>
+    <item name="android:singleLine">true</item>
+    <item name="android:layout_height">wrap_content</item>
+  </style>
+  <style name="PositionStyle2" parent="@style/PositionStyle1">
+    <item name="android:textStyle">normal|bold</item>
+  </style>
+  <style name="PositionStyle3" parent="@style/PositionStyle1">
+    <item name="android:gravity">center_vertical|right</item>
+    <item name="android:textStyle">normal|bold</item>
+  </style>
+  <style name="PositionStyle4">
+    <item name="android:textSize">9pt</item>
+    <item name="android:textColor">@color/coolblack</item>
+    <item name="android:singleLine">false</item>
+    <item name="android:maxLines">4</item>
+    <item name="android:layout_height">wrap_content</item>
+  </style>
+  <style name="TitleStyle">
+    <item name="android:textSize">12pt</item>
+    <item name="android:textColor">@color/coolblue</item>
+    <item name="android:singleLine">false</item>
+    <item name="android:lines">2</item>
+    <item name="android:layout_height">wrap_content</item>
+  </style>
+  <style name="DescriptionStyle">
+    <item name="android:textSize">9pt</item>
+    <item name="android:textColor">@color/coolblack</item>
+    <item name="android:singleLine">false</item>
+    <item name="android:layout_height">wrap_content</item>
+  </style>
+</resources>
